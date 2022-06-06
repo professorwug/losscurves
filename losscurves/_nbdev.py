@@ -2,9 +2,16 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"make_sparse_safe": "01_graph_building.ipynb",
+         "distance_matrix": "01_graph_building.ipynb",
+         "anisotropic_kernel": "01_graph_building.ipynb",
+         "adaptive_anisotropic_kernel": "01_graph_building.ipynb",
+         "diffusion_matrix": "01_graph_building.ipynb",
+         "diffusion_matrix_from_points": "01_graph_building.ipynb",
+         "diffusion_coordinates": "01_graph_building.ipynb",
+         "diffusion_map_from_points": "01_graph_building.ipynb"}
 
-modules = []
+modules = ["utils.py"]
 
 doc_url = "https://professorwug.github.io/losscurves/"
 

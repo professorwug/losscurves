@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# Loss Landscape Curvature
+> Better understanding loss landscapes through diffusion curvature and related tools.
 
 
 This file will become your README and also the index of your documentation.

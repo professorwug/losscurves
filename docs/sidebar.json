@@ -1,6 +1,7 @@
 {
   "losscurves": {
     "Overview": "/",
-    "Loss Landscape Curvature": "core.html"
+    "Core Utilities for Curvature": "core.html",
+    "Graph Utilities: kernels, normalizations, and building diffusion matrices": "graph_building.html"
   }
 }

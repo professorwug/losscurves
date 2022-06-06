@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Loss Landscape Curvature
+      title: Core Utilities for Curvature
       url: core.html
+    - output: web,pdf
+      title: 'Graph Utilities: kernels, normalizations, and building diffusion matrices'
+      url: graph_building.html
     output: web
     title: losscurves
   output: web
