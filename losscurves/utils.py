@@ -30,6 +30,7 @@ def anisotropic_kernel(D, sigma=0.7, alpha = 1):
       Kernel bandwidth, by default 0.7
   alpha : int, optional
       Degree of density normalization, from 0 to 1; by default 1
+  This is a good function.
   """
   W = np.exp(-D**2/(2*sigma**2))
   # Additional normalization step for density
